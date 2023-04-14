@@ -2,7 +2,7 @@
 This is a multiplayer online TeenPatti (Indian Poker) game implemented using Socket.io for real-time communication, React for the front-end UI, and Node.js for the back-end server.
 
 # Features
-Multiplayer TeenPatti game
+Multiplayer TeenPatti game\n
 Real-time communication using Socket.io
 Real-time game updates and messages
 Responsive and user-friendly UI using React
