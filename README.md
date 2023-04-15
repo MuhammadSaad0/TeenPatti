@@ -1,3 +1,5 @@
+# Disclaimer 
+I thought Ace was the lowest ranking card because it has 1 of the suit symbol, realized after submitting. 
 # TeenPatti
 This is a multiplayer online TeenPatti (Indian Poker) game implemented using Socket.io for real-time communication, React for the front-end UI, and Node.js for the back-end server.
 
