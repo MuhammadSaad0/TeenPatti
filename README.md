@@ -29,3 +29,5 @@ Socket.io: A JavaScript library for real-time, bidirectional communication betwe
 ● Once the player runs out of cards in their hand and there are no cards left in the set-aside deck, the 3 face-up cards come into play. The players select either one of them to play.
 ● Once the 3 face-up cards are used, the 3 face-down cards come into play. The players select the one they want to play.
 ● The winner is the player who has no cards in hand, no face-up cards and no face-down cards. 
+
+LUMS CS300 
